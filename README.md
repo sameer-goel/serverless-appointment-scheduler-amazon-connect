@@ -1,4 +1,4 @@
-**Introduction**
+# Introduction
 
 Scheduling customer appointments is often a manual and labor-intensive
 process. Using modern cloud technology, you can take the advantage of
@@ -612,38 +612,3 @@ is implemented with minimal effort using Amazon Pinpoint. With Amazon
 Connect, an outbound dialer is seamlessly integrated with the calendar
 view web application enabling employees to immediately connect to
 customers with a simple click-to-call button.
-
-You can accelerating innovation with the Accenture AWS Business Group
-(AABG). You can learn from the resources, technical expertise, and
-industry knowledge of two leading innovators, helping you accelerate the
-pace of innovation to deliver disruptive products and services. The AABG
-helps customers ideate and innovate cloud solutions with customers
-through rapid prototype development. Connect with our team a
-<accentureaws@amazon.com> to learn and accelerate how to use machine
-learning in your products and services.
-
-**Authors**
-
-<img src="media/image26.png" style="width:1.26042in;height:1.8125in" />
-
-Sameer Goel is a Sr. Solutions Architect in Netherlands, who drives
-customer success by building prototypes on cutting-edge initiatives.
-Prior to joining AWS, Sameer graduated with a master’s degree from
-Boston, with a concentration in data science. He enjoys building and
-experimenting with AI/ML projects on Raspberry Pi.
-
-<img src="media/image27.png" style="width:1.27083in;height:1.27083in" />
-
-Nick Vargas is a Manager and Technology Architect at Accenture. He leads
-the project delivery for a rapid prototyping team within the Accenture
-AWS Business Group (AABG). He enjoys his morning walks with his dog
-Bingo, loves to travel, frequents going to the beach and likes to go
-hiking.
-
-<img src="media/image28.png" style="width:1.33333in;height:1.35417in" />
-
-Anna Schreiber is part of a prototyping team within Accenture's AWS
-Business Group (AABG). As a Senior AWS Developer, she has worked on
-several high-profile proof-of-concepts that help bring the client's
-vision to life. When not working, she enjoys cooking, crafting, and
-playing fetch with her corgi Gimli.
