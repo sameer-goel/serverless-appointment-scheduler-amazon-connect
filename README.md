@@ -13,6 +13,8 @@ appointment confirmations through an SMS mobile message. It also
 provides you with a web-based dashboard where you can conveniently call
 users with one click at their scheduled time.
 
+<img src="media/ArchitectureDiagram.png">
+
 **Solution Overview**
 
 The solution consists of these primary components: customer interaction
@@ -75,7 +77,7 @@ customer with the employee using Amazon Connect.
 The architecture diagram below shows a high-level overview of the
 interaction between different AWS serverless components and services.
 
-<img src="media/image4.tiff" style="width:4.41538in;height:4.57536in" />
+<img src="media/ArchitectureDiagram.png" style="width:4.41538in;height:4.57536in" />
 
 *Architecture Diagram*
 
@@ -612,3 +614,12 @@ is implemented with minimal effort using Amazon Pinpoint. With Amazon
 Connect, an outbound dialer is seamlessly integrated with the calendar
 view web application enabling employees to immediately connect to
 customers with a simple click-to-call button.
+
+You can accelerating innovation with the Accenture AWS Business Group
+(AABG). You can learn from the resources, technical expertise, and
+industry knowledge of two leading innovators, helping you accelerate the
+pace of innovation to deliver disruptive products and services. The AABG
+helps customers ideate and innovate cloud solutions with customers
+through rapid prototype development. Connect with our team a
+<accentureaws@amazon.com> to learn and accelerate how to use machine
+learning in your products and services.
